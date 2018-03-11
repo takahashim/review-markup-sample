@@ -129,7 +129,7 @@ class Foo {
 
 連番をふらない画像には@<tt>{//indepimage}を使います。
 
-//indepimage[img01]{
+//indepimage[img02]{
 //}
 
 なお、インラインで画像を埋め込むには@<tt>{@}@<tt>{<icon>{...\}}という記法を使います。詳しくは@<hd>{ch02|その他}をどうぞ
