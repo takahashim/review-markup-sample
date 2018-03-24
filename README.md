@@ -15,10 +15,10 @@ $ rake epub  ## to generate EPUB
 
 ## LICENSE
 
-You can use this under MIT license, but when you use it for your own Re:VIEW documents, you can do without any restrictions.
+You can use this under MIT license, but when you use it for your own Re:VIEW documents, you can do without any restrictions. Enjoy!
 
 便宜上MITライセンスにしていますが、Re:VIEW文書を書く際に使う分には特に制限なしに利用できます。
 
 ## Author
 
-Masayoshi Takahashi @takahashim
+Masayoshi Takahashi (@takahashim)
